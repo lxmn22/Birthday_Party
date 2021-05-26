@@ -1,0 +1,81 @@
+/*
+ *Container Styles
+*/
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ *Santa Styles
+*/
+
+.doreamon {
+    border-radius: 0;
+}
+
+/*
+ *Aside Styles
+*/
+
+aside.curve {
+    line-height: 0;
+}
+
+aside.nobita {
+    padding-left: 10px;
+}
+
+aside.dor-call {
+    padding: 10px;
+}
+
+aside.nobita img{
+    width: 150px;
+}
+
+aside.dor-call img{
+    width:  150px;
+}
+
+
+.invite-form form{
+    display: flex;
+    text-align: left;
+}
+
+
+/*
+ *Section Styles
+*/
+section.intro p{
+    padding-top: 1rem;
+}
+
+section.contact p.top {
+    padding-top: 1rem;
+    padding-left: rem;
+    position: absolute;
+    left: 9rem;
+}
+
+section.contact p.bottom {
+    position: absolute;
+    left: 10rem;
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
+.contact img{
+    margin-left: -50px;
+}
+
+
+section.form p{
+    padding-top: 1rem;
+}
+
+.form img{
+    width: 200px;
+    height: auto;
+}
